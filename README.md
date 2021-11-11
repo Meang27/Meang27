@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 
-## :video_game: Language :video_game:
+## :video_game: Technology Stack :video_game:
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white)
 ![UnrealEngine](https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=UnrealEngine&logoColor=white)     
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
