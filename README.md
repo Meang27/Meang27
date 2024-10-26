@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 
 ## :video_game: Technology Stack :video_game:
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/CSharp-239128?style=flat-square&logo=CSharp&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)    
 
